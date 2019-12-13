@@ -34,6 +34,10 @@
 					"contextPath": "/medias"
 				},
 				{
+					"name": "virtualjdbc",
+					"contextPath": "/virtualjdbc"
+				},
+				{
 					"name": "yacceleratorstorefront",
 					"contextPath": "/yacceleratorstorefront"
 				},
